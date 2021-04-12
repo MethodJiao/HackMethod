@@ -1,1 +1,2 @@
 # HackMethod
+通过VirtualProtect挂接ring0函数
